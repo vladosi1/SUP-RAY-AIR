@@ -1080,6 +1080,9 @@ input {
     text-align: left;
     width: 155px;
   }
+  .footer__policy a {
+    padding-bottom: 40px;
+  }
   .header{
     background-position: 35% center;
   }

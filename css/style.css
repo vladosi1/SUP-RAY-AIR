@@ -959,6 +959,9 @@ input {
   .info_top-img {
     display: none;
   }
+  .header__content-box{
+    width: 300px;
+  }
   .micro__description h3 {
     font-size: 40px;
   }
@@ -1070,7 +1073,11 @@ input {
   .header__btn {
     display: none;
   }
+  .header__content-box{
+    margin-top: 70px;
+  }
   .info__spacs-title{
+    text-align: left;
     width: 155px;
   }
   .header{
@@ -1093,6 +1100,7 @@ input {
   .header__btn {
     display: none;
   }
+
   .popup__btn {
     right: 160px;
   }
